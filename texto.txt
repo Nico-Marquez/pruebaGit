@@ -1,0 +1,1 @@
+estoy editando el txt desde el editor de git
